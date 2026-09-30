@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "description_original_vs_public_cases": 23,
+  "private_review_cases": 19,
+  "synthetic_cases": 4,
+  "semantic_differences": 0,
+  "unchanged_embedded_modules": 15,
+  "portable_io_modules": 1,
+  "private_resource_spawn_worker_cases": 19,
+  "public_regression_tests_passed": 7,
+  "new_full_corpus_cleaning_performed": false,
+  "new_accuracy_estimate": null,
+  "scope": "Packaging equivalence on all 19 private adjudication cases and four synthetic inputs; not a new full-corpus reconstruction."
+}

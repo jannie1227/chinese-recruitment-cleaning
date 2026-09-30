@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite this software when using its cleaning implementations."
+title: "Chinese Recruitment Cleaning"
+type: software
+authors:
+  - name: "jannie1227"
+version: 0.1.0
+date-released: 2026-10-01
+url: "https://github.com/jannie1227/chinese-recruitment-cleaning"
+repository-code: "https://github.com/jannie1227/chinese-recruitment-cleaning"
+license: MIT
+abstract: "Chinese job-metadata revisions and responsibility-text cleaning with preserved record identities, audit information and explicit research-quality limits."

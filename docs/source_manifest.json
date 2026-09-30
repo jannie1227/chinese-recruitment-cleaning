@@ -1,0 +1,65 @@
+{
+  "description_original_rule_sources": {
+    "jdclean_unified.responsibility_repair_r11": "7933d94f0c28c40bf57a1ff0c5af1e304ff74317a10cfe8220abbdd54d7962e3",
+    "tools.r11_engine": "ccc78232262a47e4653914228459f420cecbf6e5a1091157a3cb6fd9f0288213",
+    "tools.r11_headings_v4": "020f5c416dca01c994a24c6533fe6fef489b04e10b58155891552735ba2677e4",
+    "tools.r11_io": "69b2ff04d98f5e2c5c3cf80494ecb8258599421fe27197a77713324820c6aa04",
+    "tools.r11_policy_v2": "552745856c2a317348cfeef4c21bd91a199789e9f03b1d1449f7096627bc5172",
+    "tools.r11_policy_v3": "dae4bd90fb022f093d1926cf11bd52f9c698c39e27e0073b264ee241fff5da19",
+    "tools.r11_policy_v4": "eb875a26e8f31d65622f006987a840a98355416c6a9a4907bfa39bece084b7bc",
+    "tools.r11_policy_v5": "2fbd3088c4e58a82c6f6a8be3cd2416efbd612b296cefd7aee20f0c1c06d3a13",
+    "tools.r11_verify_release": "1799a6d1a9f8f062263660351765c8488fcb7fc33f30aa4d70c198ca1accb30a",
+    "tools.r12_policy": "a7f152c7f3d366b0ba4c6cb24d235e44e4864e4475615572bfd972867afcda2c",
+    "tools.r12_policy_v2": "380db6e2c14459d9b37c4038262e2b450ff0fced8313bab26260a269b1e94599",
+    "tools.r12_policy_v3": "e9f94516ac72b85e9ffbd43fa038dd01238146a5b90c3e4e41d3bb5fe08e1b63",
+    "tools.r12_policy_v4": "bdf279d3bcade6ddef27f996f202ced573f78a5c336c6f15f682afa58373cdba",
+    "tools.r12_policy_v5": "c36cfdfdb58687a6a7060f869c2170b30504fa76850ec2d607fe2b4cebc0fede",
+    "tools.r12_policy_v6": "c01349c381bfd8a1caaa90a9d1b315b20c6397259c960e6441dc52cc699c117d",
+    "tools.r12_policy_v7": "4c58e118de281da6d2bec1efff1c9e0f491dfeaa5dd114bd686e14a48031aff4"
+  },
+  "description_original_script_sha256": "a2c25bc68850338c3ca0a73065a1d757e9ba827321909f869c73da2cd04aebf2",
+  "description_portability_changes": {
+    "tools.r11_io": "Runtime-lock location made relative to the script; semantic processing unchanged."
+  },
+  "description_public_script_sha256": "1e72016f47d66a60e14ac286089f1d7a231b46667088f2f52aa70ca27b372e4c",
+  "description_rule_sources": {
+    "jdclean_unified.responsibility_repair_r11": "7933d94f0c28c40bf57a1ff0c5af1e304ff74317a10cfe8220abbdd54d7962e3",
+    "tools.r11_engine": "ccc78232262a47e4653914228459f420cecbf6e5a1091157a3cb6fd9f0288213",
+    "tools.r11_headings_v4": "020f5c416dca01c994a24c6533fe6fef489b04e10b58155891552735ba2677e4",
+    "tools.r11_io": "6599080a0b6949c6c1ee83c4314e9bca204db67892ae3e8793d8ba5b427d78ac",
+    "tools.r11_policy_v2": "552745856c2a317348cfeef4c21bd91a199789e9f03b1d1449f7096627bc5172",
+    "tools.r11_policy_v3": "dae4bd90fb022f093d1926cf11bd52f9c698c39e27e0073b264ee241fff5da19",
+    "tools.r11_policy_v4": "eb875a26e8f31d65622f006987a840a98355416c6a9a4907bfa39bece084b7bc",
+    "tools.r11_policy_v5": "2fbd3088c4e58a82c6f6a8be3cd2416efbd612b296cefd7aee20f0c1c06d3a13",
+    "tools.r11_verify_release": "1799a6d1a9f8f062263660351765c8488fcb7fc33f30aa4d70c198ca1accb30a",
+    "tools.r12_policy": "a7f152c7f3d366b0ba4c6cb24d235e44e4864e4475615572bfd972867afcda2c",
+    "tools.r12_policy_v2": "380db6e2c14459d9b37c4038262e2b450ff0fced8313bab26260a269b1e94599",
+    "tools.r12_policy_v3": "e9f94516ac72b85e9ffbd43fa038dd01238146a5b90c3e4e41d3bb5fe08e1b63",
+    "tools.r12_policy_v4": "bdf279d3bcade6ddef27f996f202ced573f78a5c336c6f15f682afa58373cdba",
+    "tools.r12_policy_v5": "c36cfdfdb58687a6a7060f869c2170b30504fa76850ec2d607fe2b4cebc0fede",
+    "tools.r12_policy_v6": "c01349c381bfd8a1caaa90a9d1b315b20c6397259c960e6441dc52cc699c117d",
+    "tools.r12_policy_v7": "4c58e118de281da6d2bec1efff1c9e0f491dfeaa5dd114bd686e14a48031aff4"
+  },
+  "metadata_sources": {
+    "revision_v118.py": "77ef0de9eaacf6c416b27207dc20a57c844ba283772afacbd6bb5fcf490f0af3",
+    "revision_v12.py": "d6142886e448f79e442256f465e73828f85a90e0164e4a5f5ce4b80470c385e6",
+    "revision_v1210.py": "da801f1a403925efe3082688af8133d981a3ffd28d99272c505750b0977ace31",
+    "revision_v1211.py": "d2bca70a26314a78db50430ed0b594f5d23de5605f5ec9c8362abd572debd465",
+    "revision_v1212.py": "91d7f37b56af3a65964545b445e9adcc0dfc72a0b2bcad4b6e77287ae6096a99",
+    "revision_v126.py": "c1ea7db43f3f65217d611869bce36a4eac06f2979322f6b906213345c16d3aad",
+    "revision_v127.py": "1948dacfe13f2ed5f36c733844963fd28981e6469cdfbe344392f52b7dc19342",
+    "revision_v128.py": "f629f18ae02dca26288b3c38efcbaaf02c7f9f132b74d2c419fb531a1f783b0f",
+    "revision_v129.py": "87d7246fb309c18685ea31bfd1e4e9c1408a2868ad160d373143678057a6ab37"
+  },
+  "private_resource_counts_not_distributed": {
+    "metadata_pending_combinations": 27,
+    "r10_reviews": 13,
+    "v5_reviews": 4,
+    "v7_reviews": 2
+  },
+  "public_software_version": "0.1.0",
+  "research_versions": {
+    "description": "R12 V7",
+    "metadata": "v1.2.12"
+  }
+}
